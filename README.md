@@ -166,6 +166,10 @@ bash test.sh ../HMDB51 logs_RSEE/.../ckpt.best.pth.tar
 | `--log_dir` | Directory to save logs and checkpoints |
 | `--test_from` | Path to a checkpoint for evaluation |
 
+## ⭐ Star
+
+**If you find this work useful for your research, please consider giving this repository a ⭐ star. Your support is greatly appreciated!**
+
 ## Citation
 
 If you find RSEE useful or relevant to your project and research, please kindly cite our paper:
