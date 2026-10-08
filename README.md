@@ -176,6 +176,9 @@ If you find RSEE useful or relevant to your project and research, please kindly 
   title   = {Joint Adaptive Resolution Selection and Conditional Early Exiting for Efficient Video Recognition on Edge Devices},
   year    = {2025},
   journal = {Big Data Mining and Analytics},
+  volume  = {8},
+  number  = {3},
+  pages   = {661-677},
   keywords = {deep learning, video analytics, edge intelligence, resolution selection, early exit},
   url     = {https://www.sciopen.com/article/10.26599/BDMA.2024.9020093},
   doi     = {10.26599/BDMA.2024.9020093}
